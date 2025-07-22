@@ -52,5 +52,5 @@ Para resolver, executei:
 
 ## Observações
 
-- Estep rojeto contém arquivos fictícios apenas para testes de versionamento
+- Este projeto contém arquivos fictícios apenas para testes de versionamento
 - Não representa um projeto funcional de software
