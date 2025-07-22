@@ -26,6 +26,21 @@ and GitHub
 - Gained experience resolving basic conflicts
 - Got familiar with the GitHub interface
 
+## Issues Encountered
+
+While using Git, I encountered the following error when trying to execute `git push`:
+
+> Updates were rejected because the remote contains work that you do not have locally...
+
+This issue happened because the GitHub repository already had a `README.md` file (created during the repository setup), but my local repository did not have that version synchronized. I created my own local `README.md` using `touch`, but when I tried to push it, Git blocked the operation to prevent overwriting the remote content.
+
+To fix this, I ran:
+
+`git pull origin main`
+`git push`
+
+
+
 ## Observations
 
 - This project contains fictional files used only for version control practice
