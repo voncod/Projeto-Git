@@ -1,4 +1,4 @@
-This project was created to practice essential commands and workflows using Git
+## This project was created to practice essential commands and workflows using Git
 and GitHub
 
 ## Objectives of this test
