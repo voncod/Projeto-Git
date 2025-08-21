@@ -1,4 +1,4 @@
-# Projeto-git-luan
+# Projeto-Git-Luan
 Tutorial de Git e GitHub
 
 # Teste Prático de Git e GitHub
